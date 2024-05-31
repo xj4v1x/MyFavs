@@ -6,4 +6,5 @@
 - [Github](https://github.com/xj4v1x/MyFavs/blob/main/Github.md)
 - [Music](https://github.com/xj4v1x/MyFavs/blob/main/Music.md)
 - [Tools](https://github.com/xj4v1x/MyFavs/blob/main/Tools.md)
+- [Webs](https://github.com/xj4v1x/MyFavs/blob/main/Webs.md)
 - [Youtube](https://github.com/xj4v1x/MyFavs/blob/main/Youtube.md)
