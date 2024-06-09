@@ -3,7 +3,6 @@
 Youtube
 
 - [midudev](https://midu.dev/)
-
-- 
+- [losapuntesdemajo](https://losapuntesdemajo.vercel.app/)
 
 - 
