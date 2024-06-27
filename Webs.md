@@ -1,6 +1,6 @@
 # Para revisar cuando tenga tiempo
 
-Youtube
+Webs
 
 - [losapuntesdemajo](https://losapuntesdemajo.vercel.app/)
 
